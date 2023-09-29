@@ -5,4 +5,7 @@ The terminal is the interface that allows the user to input commands to accurate
 Git is defined as a free and open-source version control system. Github is defined as the platform that Git utilizes to upload and store code written by developers. The major difference between the two is that Git is the system and GitHub is the storage.
 
 3.  What are the steps to fork a GitHub repository?
-To fork a GitHub repository, the user must first locate the GitHub page of the repository they want to fork. For example, if you wanted to fork the vue.js repository, you must go to githun.com/vuejs/vue. When you are on that page, you must click the fork button located next to the Sponser, Watch, and Star button. When you click the fork button, you have the option to modify the repository name as well as add an optional description. When you are done, you can now press the green Create Fork button and now you have successfully forked a repository.
+To fork a GitHub repository, the user must first locate the GitHub page of the repository they want to fork. For example, if you wanted to fork the vue.js repository, 
+you must go to githun.com/vuejs/vue. When you are on that page, you must click the fork button located next to the Sponser, Watch, and Star button. 
+When you click the fork button, you have the option to modify the repository name as well as add an optional description. When you are done, 
+you can now press the green Create Fork button and now you have successfully forked a repository.
